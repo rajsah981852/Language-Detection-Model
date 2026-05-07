@@ -8,7 +8,7 @@ Text preprocessing (Tokenization, Stopword Removal, Stemming).
 
 Feature Engineering using Bag of Words (CountVectorizer).
 
-Model Training using Multinomial Naive Bayes
+Model Training using Multinomial Naive Bayes.
 
 Performance Evaluation using Accuracy Score & Confusion Matrix
 
