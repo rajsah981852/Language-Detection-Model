@@ -6,7 +6,7 @@ The system classifies text into multiple languages including English, Russian, T
 
 Text preprocessing (Tokenization, Stopword Removal, Stemming).
 
-Feature Engineering using Bag of Words (CountVectorizer)
+Feature Engineering using Bag of Words (CountVectorizer).
 
 Model Training using Multinomial Naive Bayes
 
