@@ -4,7 +4,7 @@ The system classifies text into multiple languages including English, Russian, T
 
 *Key Highlights
 
-Text preprocessing (Tokenization, Stopword Removal, Stemming)
+Text preprocessing (Tokenization, Stopword Removal, Stemming).
 
 Feature Engineering using Bag of Words (CountVectorizer)
 
